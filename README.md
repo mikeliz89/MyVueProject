@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Requirements
+First you need node.js installed on your machine. Follow this tutorial how to install node.js (for Windows)
+https://blog.teamtreehouse.com/install-node-js-npm-windows 
+
 ## Build Setup
 
 ``` bash
