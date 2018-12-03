@@ -1,0 +1,11 @@
+Kuinka tämä projekti luotiin alunperin tyhjästä?
+
+1. Luo kansio
+2. Avaa cmd
+3. Liiku kansioon cd:llä
+4. Aja seuraavat komennot yksitellen
+$ npm install -g vue-cli
+$ vue init webpack my-project
+$ cd my-project
+$ npm install
+$ npm run dev
