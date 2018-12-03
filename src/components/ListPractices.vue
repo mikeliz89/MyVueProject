@@ -17,7 +17,7 @@
 
 <script>
 export default {
-  name: 'Another',
+  name: 'ListPractices',
   data () {
     return {
       msg: 'Vuen lista harjoitteita',

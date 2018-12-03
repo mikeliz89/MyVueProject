@@ -2,6 +2,7 @@
   <ul class="menulist">
     <li><router-link tag="li" to="/"><a>Home</a></router-link></li>
     <li><router-link tag="li" to="other"><a>Other</a></router-link></li>
+    <li><router-link tag="li" to="restpractices"><a>Rest practices</a></router-link></li>
     <li><router-link tag="li" to="listpractices"><a>List Practices</a></router-link></li>
   </ul>
 </template>

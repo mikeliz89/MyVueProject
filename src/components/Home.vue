@@ -81,6 +81,24 @@
       </li>
     </ul>
 
+    <h3>VueTutorial-tutoriaali</h3>
+    <ul>
+      <li>
+        <a href="https://www.youtube.com/playlist?list=PLoYCgNOIyGADZuvKJweutZDOO9VI9YiJ9"
+          target="_blank"
+        >
+          https://www.youtube.com/playlist?list=PLoYCgNOIyGADZuvKJweutZDOO9VI9YiJ9
+        </a>
+      </li>
+      <li>
+        <a href="http://rest.learncode.academy/"
+        target="_blank"
+        >
+        http://rest.learncode.academy/
+        </a>
+      </li>
+    </ul>
+
     <h3>Hieno testikenttä</h3>
     <input id="my-field" v-model="msg" type="text" style="width:300px;">
 

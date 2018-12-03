@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import HomeComponent from '@/components/Home'
 import OtherComponent from '@/components/Other'
 import ListPractices from '@/components/ListPractices'
+import RestPractices from '@/components/RestPractices'
 
 Vue.use(Router)
 
@@ -21,6 +22,10 @@ export default new Router({
       path: '/listpractices',
       name: 'ListPractices',
       component: ListPractices
+    }, {
+      path: '/restpractices',
+      name: 'RestPractices',
+      component: RestPractices
     }
   ]
 })
